@@ -1,14 +1,4 @@
-#!/usr/bin/env python3
-"""
-Basic Web Vulnerability Scanner (Beginner Version)
-----------------------------------------------------
-Checks a website for a few common, well-known security issues:
-  1. Missing security headers
-  2. SSL certificate expiry
-  3. Basic reflected XSS
-  4. Basic SQL injection error messages
 
-⚠️ Only scan websites you own or have permission to test.
 
 Usage:
     python basic_scanner.py https://example.com
